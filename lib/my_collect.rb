@@ -6,7 +6,6 @@ def my_collect(array)
       i += 1
     end
     array
-  end
 end
 
 # def my_each(array)
